@@ -1,3 +1,3 @@
-module Peach
+class Peach
   VERSION = "0.1.0"
 end
